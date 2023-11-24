@@ -1,0 +1,52 @@
+{
+    "": {
+        "TotalCount": 1,
+        "PageNumber": 1,
+        "PageSize": 10
+    },
+    "_links": {
+        "self": {
+            "Href": "/v2?page=1&pageSize=10"
+        },
+        "create": {
+            "Href": "/v2",
+            "Method": "POST"
+        }
+    },
+    "_embedded": {
+        "documents": [
+            {
+                "": {
+                    "Id": 1,
+                    "Title": "Hello"
+                },
+                "_links": {
+                    "self": {
+                        "Href": "/v2/1"
+                    }
+                },
+                "_embedded": {},
+                "_templates": {}
+            }
+        ]
+    },
+    "_templates": {
+        "default": {
+            "title": "Create",
+            "method": "POST",
+            "contentType": "application/json",
+            "properties": [
+                {
+                    "name": "title",
+                    "prompt": "Title",
+                    "required": true
+                },
+                {
+                    "name": "content",
+                    "prompt": "Content",
+                    "required": true
+                }
+            ]
+        }
+    }
+}
