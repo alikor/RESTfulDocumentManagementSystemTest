@@ -1,4 +1,3 @@
-using Xunit;
 using System.Text.Json;
 using Documents.Models.HAL;
 

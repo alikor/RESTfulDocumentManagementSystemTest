@@ -1,8 +1,6 @@
-using Xunit;
 using Moq;
 using Documents.Controllers.v2;
 using Documents.Models;
-using Documents.Data.Quries;
 using Microsoft.AspNetCore.Mvc;
 using Documents.Models.HAL;
 using System.Text.Json;

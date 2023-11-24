@@ -1,6 +1,3 @@
-
-
-using System.Collections.Generic;
 using Documents.Models;
 
 using Documents.Data.Quries;

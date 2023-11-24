@@ -3,10 +3,7 @@ using Documents.Models;
 using Documents.Models.HAL;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using Documents.Controllers.v2.Dtos;
-using System.Reflection;
 using System.Text.Encodings.Web;
-using Documents.Data.Quries;
 using Microsoft.AspNetCore.Authorization;
 
 namespace Documents.Controllers.v2

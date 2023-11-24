@@ -1,11 +1,7 @@
-using Xunit;
 using Moq;
 using Documents.Data.Handlers;
 using Documents.Data.Handlers.Commands;
-using Documents.Models;
 using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks;
-using Documents.Data.Handlers.Commands;
 
 namespace Documents.Tests.Controllers.v2
 {

@@ -1,4 +1,3 @@
-using Xunit;
 using Moq;
 
 using Documents.Data.Handlers.Commands;

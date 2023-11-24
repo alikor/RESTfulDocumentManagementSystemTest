@@ -1,9 +1,4 @@
-
-
-using System.Collections.Generic;
 using Documents.Models;
-
-using Documents.Data.Quries; // Add missing import statement
 namespace Documents.Controllers.v2.Dtos
 {
     public class DocumentSummary

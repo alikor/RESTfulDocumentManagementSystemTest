@@ -1,6 +1,6 @@
 @Documents_HostAddress = http://localhost:5018
 
-GET {{Documents_HostAddress}}/weatherforecast/
+GET {{Documents_HostAddress}}/
 Accept: application/json
 
 ###

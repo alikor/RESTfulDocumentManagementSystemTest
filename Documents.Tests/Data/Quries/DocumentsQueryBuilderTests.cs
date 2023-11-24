@@ -1,9 +1,6 @@
-using Xunit;
 using Moq;
 using Documents.Data.Quries;
 using Documents.Models;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace Documents.Tests.Data.Quries
 {

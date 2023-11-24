@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using Documents.Models;
 using Documents.Models.HAL;
 using System.Text.Json;
 using System.Text.Json.Serialization;

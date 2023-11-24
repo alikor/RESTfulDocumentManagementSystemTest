@@ -1,11 +1,8 @@
-using Xunit;
 using Moq;
 using Documents.Data.Handlers.Commands;
 using Documents.Models;
-using System.Threading.Tasks;
 using Documents.Utitlies;
 using Documents.Data.Handlers;
-using Documents.Models;
 
 namespace Documents.Tests.Data.Handlers
 {

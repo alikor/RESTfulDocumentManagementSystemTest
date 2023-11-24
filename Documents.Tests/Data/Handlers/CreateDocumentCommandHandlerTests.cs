@@ -1,11 +1,7 @@
 using Moq;
-using Xunit;
 using Documents.Data.Handlers.Commands;
 using Documents.Models;
-using System;
-using System.Threading.Tasks;
 using Documents.Data.Handlers;
-using System.Collections.Generic;
 using Documents.Utitlies;
 
 namespace Documents.Tests.Data.Handlers

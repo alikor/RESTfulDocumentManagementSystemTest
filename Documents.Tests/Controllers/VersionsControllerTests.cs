@@ -1,5 +1,3 @@
-using Xunit;
-using Moq;
 using Microsoft.AspNetCore.Mvc;
 using Documents.Controllers.v2;
 using Documents.Models.HAL;

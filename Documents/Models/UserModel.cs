@@ -1,8 +1,3 @@
-
-
-
-using System;
-
 namespace Documents.Models
 {
     public class UserModel

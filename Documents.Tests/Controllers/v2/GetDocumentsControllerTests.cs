@@ -1,4 +1,3 @@
-using Xunit;
 using Moq;
 using Microsoft.AspNetCore.Mvc;
 using Documents.Models;
@@ -7,7 +6,6 @@ using Documents.Data.Quries;
 using Documents.Controllers.v2.Dtos;
 using Documents.Models.HAL;
 using System.Text.Json;
-using System.Collections.Generic;
 
 namespace Documents.Tests.Controllers.v2
 {

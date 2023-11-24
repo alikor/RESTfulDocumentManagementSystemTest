@@ -1,7 +1,3 @@
-
-
-using System.Collections.Generic;
-
 namespace Documents.Data.Quries
 {
     public class PagedResult<T>

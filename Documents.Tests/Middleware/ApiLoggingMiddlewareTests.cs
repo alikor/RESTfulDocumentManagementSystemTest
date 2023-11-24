@@ -1,9 +1,6 @@
 using Moq;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
-using System.Diagnostics;
-using System.Threading.Tasks;
-using Xunit;
 using Documents.Middleware;
 
 namespace Documents.Tests.Middleware
